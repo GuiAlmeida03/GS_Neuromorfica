@@ -44,7 +44,7 @@ Visualize em tempo real o comportamento do neurônio LIF com 3 cenários diferen
 - 🟠 Vazamento Ativo
 - 🟢 Disparo (Spiking)
 
-**[🚀 Acesse a simulação online](https://GuiAlmeida03.github.io/Global_Solution_Neuromorfica/)**
+**[🚀 Acesse a simulação online](https://guialmeida03.github.io/GS_Neuromorfica/)**
 
 </td>
 <td width="50%">
@@ -91,7 +91,7 @@ Visualize em tempo real o comportamento do neurônio LIF com 3 cenários diferen
 
 <div align="center">
 
-### **👉 [CLIQUE AQUI PARA ACESSAR A SIMULAÇÃO](https://GuiAlmeida03.github.io/Global_Solution_Neuromorfica/) 👈**
+### **👉 [CLIQUE AQUI PARA ACESSAR A SIMULAÇÃO](https://guialmeida03.github.io/GS_Neuromorfica/) 👈**
 
 *A simulação está hospedada gratuitamente no GitHub Pages e pode ser acessada diretamente pelo navegador!*
 
@@ -416,7 +416,7 @@ Entre em contato através do email ou LinkedIn.
 
 ## 🔗 Links Úteis
 
-- 🌐 **Simulação Online:** https://GuiAlmeida03.github.io/Global_Solution_Neuromorfica/
+- 🌐 **Simulação Online:** https://guialmeida03.github.io/GS_Neuromorfica/
 - 📦 **Repositório GitHub:** https://github.com/GuiAlmeida03/Global_Solution_Neuromorfica
 - 📚 **Documentação Completa:** [Ver aqui](./documentacao/Global_Solution_IA_Neuromorfica.md)
 
