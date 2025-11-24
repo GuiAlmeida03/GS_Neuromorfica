@@ -2,7 +2,7 @@
   "name": "lif-neuromorphic-simulation",
   "version": "1.0.0",
   "description": "Simulação interativa do neurônio LIF para Global Solution 2025.2",
-  "homepage": "https://GuiAlmeida03.github.io/Global_Solution_Neuromorfica",
+  "homepage": "https://GuiAlmeida03.github.io/GS_Neuromorfica",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
@@ -19,7 +19,7 @@
     "AI",
     "simulation"
   ],
-  "author": "Seu Nome",
+  "author": "Guilherme_Almeida",
   "license": "MIT",
   "dependencies": {
     "lucide-react": "^0.263.1",
