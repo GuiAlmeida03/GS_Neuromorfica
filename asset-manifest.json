@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Global_Solution_Neuromorfica/static/js/main.b240f2cf.js",
-    "index.html": "/Global_Solution_Neuromorfica/index.html",
-    "main.b240f2cf.js.map": "/Global_Solution_Neuromorfica/static/js/main.b240f2cf.js.map"
+    "main.js": "/GS_Neuromorfica/static/js/main.b240f2cf.js",
+    "index.html": "/GS_Neuromorfica/index.html",
+    "main.b240f2cf.js.map": "/GS_Neuromorfica/static/js/main.b240f2cf.js.map"
   },
   "entrypoints": [
     "static/js/main.b240f2cf.js"
